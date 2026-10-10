@@ -1,0 +1,2 @@
+# Only needed for the optional --chart flag
+matplotlib>=3.8
