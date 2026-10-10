@@ -1,5 +1,7 @@
 # SDG 2030 Progress Tracker
 
+[![tests](https://github.com/Bak-AbasiUdoessien/sdg-progress-tracker/actions/workflows/tests.yml/badge.svg)](https://github.com/Bak-AbasiUdoessien/sdg-progress-tracker/actions/workflows/tests.yml)
+
 This Python command-line tool downloads **real** World Bank data for six SDG indicators. For each one it fits a trend line (least-squares, written by hand) and tells you if the country is **on track to hit the 2030 target**. If it isn't, it estimates how many years the target will actually take.
 
 | SDG | Indicator (World Bank code) | Target used |
